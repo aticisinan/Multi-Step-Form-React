@@ -1,3 +1,3 @@
 ## Multi Step Form <br>
 
-### Javascript/React
+### React
